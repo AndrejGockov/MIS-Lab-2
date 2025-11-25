@@ -1,12 +1,16 @@
-[Screen_recording_20251125_152023.webm](https://github.com/user-attachments/assets/35f26c36-322f-428b-b794-c727f8ecef21)[Screen_recording_20251125_152023.webm](https://github.com/user-attachments/assets/0f5c5b96-266b-49f5-9e98-a6ca40c90e76)# Mobile Information Systems Lab. Exercise 2
+# Mobile Information Systems Lab. Exercise 1
 
 MIS Solution for lab 2
 
 ## Recordings
 
-[Screen_recording_20251125_152023.webm](https://github.com/user-attachments/assets/9ceedfae-e75b-4be8-b8f7-216cde9ab011)
+<video src="https://github.com/user-attachments/assets/9ceedfae-e75b-4be8-b8f7-196cde9ab011" width="640" height="480" controls>
+  Video could not be played.
+</video>
 
-[Screen_recording_20251125_152425.webm](https://github.com/user-attachments/assets/0c39fb55-646c-4245-901b-b5e65281ef17)
+<video src="https://github.com/user-attachments/assets/0c39fb55-646c-4245-901b-b5e65281ef17" width="640" height="480" controls>
+  Video could not be played.
+</video>
 
 ## Screenshots
 
