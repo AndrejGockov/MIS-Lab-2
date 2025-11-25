@@ -4,13 +4,9 @@ MIS Solution for lab 2
 
 ## Recordings
 
-<video src="https://github.com/user-attachments/assets/9ceedfae-e75b-4be8-b8f7-196cde9ab011" width="640" height="480" controls>
-  Your browser does not support the video tag.
-</video>
+[Screen_recording_20251125_152023.webm](https://github.com/user-attachments/assets/9ceedfae-e75b-4be8-b8f7-216cde9ab011.gif)
 
-<video src="https://github.com/user-attachments/assets/0c39fb55-646c-4245-901b-b5e65281ef17" width="640" height="480" controls>
-  Your browser does not support the video tag.
-</video>
+[Screen_recording_20251125_152425.webm](https://github.com/user-attachments/assets/0c39fb55-646c-4245-901b-b5e65281ef17.gif)
 
 ## Screenshots
 
