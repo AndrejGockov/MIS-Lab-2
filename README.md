@@ -1,4 +1,4 @@
-# Mobile Information Systems Lab. Exercise 1
+# Mobile Information Systems Lab. Exercise 2
 
 MIS Solution for lab 2
 
