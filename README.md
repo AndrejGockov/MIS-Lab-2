@@ -4,9 +4,13 @@ MIS Solution for lab 2
 
 ## Recordings
 
-[Screen_recording_20251125_152023.webm](https://github.com/user-attachments/assets/9ceedfae-e75b-4be8-b8f7-216cde9ab011.gif)
+<video src="https://github.com/user-attachments/assets/90e43f8e-5303-4013-8d16-63e7d65a939e" controls muted>
+  Couldn't play video
+</video>
 
-[Screen_recording_20251125_152425.webm](https://github.com/user-attachments/assets/0c39fb55-646c-4245-901b-b5e65281ef17.gif)
+<video src="https://github.com/user-attachments/assets/c75faab8-8b7a-45dc-8fdf-e0682b3df1f6" controls muted>
+  Couldn't play video
+</video>
 
 ## Screenshots
 
